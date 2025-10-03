@@ -18,6 +18,7 @@
           default = pkgs.mkShell {
             name = "pinggirjurang.studio";
             buildInputs = with pkgs; [
+              go
               hugo
             ];
           };
