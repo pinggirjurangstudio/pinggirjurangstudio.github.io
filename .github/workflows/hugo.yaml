@@ -21,9 +21,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
       - name: Setup Nix
-        uses: DeterminateSystems/nix-installer-action@main
+        uses: DeterminateSystems/determinate-nix-action@v3
       - name: Cache Nix
-        uses: DeterminateSystems/flakehub-cache-action@main
+        uses: DeterminateSystems/flakehub-cache-action@v2
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
