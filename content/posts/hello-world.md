@@ -1,6 +1,7 @@
 +++
 title = "Creativity, Decisions, and the Beginning"
-lastmod = 2025-10-07T14:32:02+07:00
+date = 2025-10-07
+lastmod = 2025-10-10T11:32:18+07:00
 tags = ["paranesia", "devlog"]
 draft = false
 author = "Billy Zaelani Malik"
@@ -48,10 +49,12 @@ shape them. Limits aren’t barriers — they’re guides. They narrow the path 
 enough for us to see where to step next. Starting an indie game studio was one
 of those defining choices.
 
-I’m starting a small indie game studio called **Pinggir Jurang Studio** — _Edge of
-the Cliff_. It invites players to stand on the edge and see the world from a new
-perspective. The first game that I'm working on is **Paranesia** — a satirical,
-mutiplayer deck-building game about running a political campaign.
+Coming from a love of watching stand-up comedy that tackles sensitive topics —
+what we call _materi pinggir jurang_ — and a lifelong fascination with games, I’m
+starting a small indie game studio called **Pinggir Jurang Studio**. We make games
+that invite players to stand on the edge and see the world from a different
+perspective. Our first game is **Paranesia** — a satirical, mutiplayer deck-building
+game about running a political campaign.
 
 This is where the journey begins — at the edge, where Pinggir Jurang Studio
 takes its first step and Paranesia starts to take shape. There’s no clear map
